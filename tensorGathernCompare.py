@@ -2,8 +2,10 @@
 Learning
 1. tf.gather --> gathers elements from matrix, provided with indices
 2. tf.where --> compares element wise, and output the indices
+3. tf.range --> generate a range - start, end, gap
+4. tf.diag --> make a diagnol matrix of input value
 
-
+'''
 
 
 import tensorflow as tf
