@@ -1,9 +1,0 @@
-# 1b: Create two 0-d tensors x and y randomly selected from the range [-1, 1).
-# Return x + y if x < y, x - y if x > y, 0 otherwise.
-
-Using Case
-
-Learnings - 
-1. tf.case
-2. typecasting in tensorflow
-3. tf.Interactivesession
